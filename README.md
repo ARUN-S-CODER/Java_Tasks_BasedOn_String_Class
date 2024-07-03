@@ -1,6 +1,6 @@
 🎉 #Welcome to my Java_Tasks_BasedOn_String_Class Repository! 🎉
 
-    👋 ##[Overview]
+    👋 ##Overview
 
         This repository showcases my skills in manipulating strings using various methods from the Java String class. 
         It consists of 9 different Java code files, each demonstrating a unique string manipulation technique. 
@@ -36,7 +36,7 @@
           Counts the number of vowels and consonants in a given string using split(), length(), and charAt().
           Example: "hello world" contains 3 vowels and 7 consonants
 
-💻 Purpose
+💻 ##Purpose
 
 This repository demonstrates my understanding of various string manipulation techniques using the Java String class. I hope you find it helpful in your own coding journey! 🤖
 

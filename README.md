@@ -1,12 +1,12 @@
-🎉 #Welcome to my Java_Tasks_BasedOn_String_Class Repository! 🎉
+🎉 # Welcome to my Java_Tasks_BasedOn_String_Class Repository! 🎉
 
-    👋 ##Overview
+    👋 ## Overview
 
         This repository showcases my skills in manipulating strings using various methods from the Java String class. 
         It consists of 9 different Java code files, each demonstrating a unique string manipulation technique. 
         From capitalizing words to counting vowels and consonants, this repository covers a range of string operations that are essential for any Java developer.
 
-    📂 ##File List
+    📂 ## File List
 
       1. Capitalise Each Word.java 📈
            Uppercases the first letter of every word in a given string using **split()**, **toUpperCase()**, and **substring()**.
